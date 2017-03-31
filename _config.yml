@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /site_test_jekyll
+exclude: [README]
